@@ -1,4 +1,4 @@
-## ## Hi! I'm **Henrique** 👋 
+ ## Hi! I'm **Henrique** 👋 
 
 <!--github stats-->
 <div align="center" style="display: inline">
@@ -8,14 +8,19 @@
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Henri&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
+
+   ## Minhas Skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="java" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
+     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /> 
+     <img align="center" alt="git" width="30" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+     <img align="center" alt="linux" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
   
-  ##
+  ## Contatos:
  
 <div> 
   <a href="https://instagram.com/henrique.s02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,3 +33,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Henrir/Dev-Henri/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Henri/Dev-Henri/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+   
